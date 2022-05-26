@@ -1,0 +1,6 @@
+framework module Pods_DesafioLeal {
+  umbrella header "Pods-DesafioLeal-umbrella.h"
+
+  export *
+  module * { export * }
+}
